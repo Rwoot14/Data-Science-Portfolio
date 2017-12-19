@@ -12,7 +12,7 @@
   
   - [Yelp Project](https://github.com/Rwoot14/Data-Science-Portfolio/tree/master/KickStarter%20Project): Description
   
-    #### Homework Assignments
+   #### Homework Assignments
   
   - [Yelp Project](https://github.com/Rwoot14/Data-Science-Portfolio/tree/master/KickStarter%20Project): Description
   
@@ -25,3 +25,7 @@
     #### Homework Assignments
     
   - [Yelp Project](https://github.com/Rwoot14/Data-Science-Portfolio/tree/master/KickStarter%20Project): Description    
+
+- ### Spark
+
+    #### Homework Assignments
