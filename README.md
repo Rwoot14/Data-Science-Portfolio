@@ -13,3 +13,5 @@
 - ### R Projects
 
   - [Peanut Butter Forecast](https://rpubs.com/rwoot14/ga2_draft): Description
+  
+  - [Car Price Predictions](https://rpubs.com/rwoot14/ga2_draft): Description
