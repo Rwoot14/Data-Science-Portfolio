@@ -16,7 +16,9 @@
   
    #### Homework Assignments
   
-  - [Yelp Project](https://github.com/Rwoot14/Data-Science-Portfolio/tree/master/KickStarter%20Project): Under Construction
+  - [Advanced Predictive Modeling](https://github.com/Rwoot14/Data-Science-Portfolio/tree/master/KickStarter%20Project): Under Construction
+  
+  - [Hadoop](https://github.com/Rwoot14/Data-Science-Portfolio/tree/master/KickStarter%20Project): Under Construction
   
 - ### R Projects
 
@@ -26,10 +28,12 @@
 
     #### Homework Assignments
     
-  - [Yelp Project](https://github.com/Rwoot14/Data-Science-Portfolio/tree/master/KickStarter%20Project): Under Construction    
+   - [Yelp Project](https://github.com/Rwoot14/Data-Science-Portfolio/tree/master/KickStarter%20Project): Under Construction    
 
 - ### Spark
 
+	- [Term Project]()
+	
     #### Homework Assignments
 
 - ### SQL
