@@ -14,7 +14,7 @@
   
   - [Yelp Project](https://github.com/Rwoot14/Data-Science-Portfolio/tree/master/KickStarter%20Project): Under Construction
   
-   #### Homework Assignments
+   #### Assignments
   
   - [Advanced Predictive Modeling](https://github.com/Rwoot14/Data-Science-Portfolio/tree/master/KickStarter%20Project): Under Construction
   
@@ -26,7 +26,7 @@
   
   - [Car Price Predictions](https://rpubs.com/rwoot14/ga2_draft): Under Construction
 
-    #### Homework Assignments
+    #### Assignments
     
    - [Yelp Project](https://github.com/Rwoot14/Data-Science-Portfolio/tree/master/KickStarter%20Project): Under Construction    
 
@@ -34,7 +34,7 @@
 
 	- [Term Project]()
 	
-    #### Homework Assignments
+    #### Assignments
 
 - ### SQL
 
