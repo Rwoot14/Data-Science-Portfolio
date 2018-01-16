@@ -17,14 +17,29 @@
    #### Assignments
   
   - [Advanced Predictive Modeling](https://github.com/Rwoot14/Advanced-Predictive-Modeling-HW): These assignments focused on suprived and unsuprivised machine learning applications:
+  
   	-[Assignment 1](https://github.com/Rwoot14/Advanced-Predictive-Modeling-HW/blob/master/Homework%201/HW1-F17-MIS382N%20(1)%20FINAL.ipynb)
+	
 	-[Assignment 2](https://github.com/Rwoot14/Advanced-Predictive-Modeling-HW/blob/master/Yennam_Wooten-HW2%20(1).ipynb)
+	
 	-[Assignment 3](https://github.com/Rwoot14/Advanced-Predictive-Modeling-HW/blob/master/Homework%203/MIS382_HW3_Wooten_Yennam.ipynb)
+	
 	-[Assignment 4](https://github.com/Rwoot14/Advanced-Predictive-Modeling-HW/blob/master/Homework%204/HW4_Wooten_Yennam.ipynb)
+	
 	-[Assignment 5](https://github.com/Rwoot14/Advanced-Predictive-Modeling-HW/blob/master/Homework%205/HW5_Wooten_Yennam.ipynb)
   
-  - [Hadoop](https://github.com/Rwoot14/Data-Science-Portfolio/tree/master/KickStarter%20Project): Under Construction
-  
+  - [Hadoop](https://github.com/Rwoot14/Data-Science-Portfolio/tree/master/KickStarter%20Project): Each assignment consists of a map and a reduce job.
+	
+	-[Assignment 1](https://github.com/Rwoot14/Big_Data/tree/master/Assignment%201/Source_files)
+	
+	-[Assignment 2](https://github.com/Rwoot14/Big_Data/tree/master/Assignment%202/fin2/Assignment2Code)
+	
+	-[Assignment 3](https://github.com/Rwoot14/Big_Data/tree/master/Assignment%203/Fin3/Assignment3Code)
+	
+	-[Assignment 4](https://github.com/Rwoot14/Big_Data/tree/master/Assignment%204/Fin4/Assignment4Code)
+	
+	-[Assignment 5](https://github.com/Rwoot14/Big_Data/tree/master/Assignment%205/Fin/Assignment5Code)
+	
 - ### R Projects
 
   - [Peanut Butter Forecast](https://rpubs.com/rwoot14/ga2_draft): Comodity demand can be very volitile 
