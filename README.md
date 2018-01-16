@@ -27,7 +27,7 @@
   
 - ### R Projects
 
-  - [Peanut Butter Forecast](https://rpubs.com/rwoot14/ga2_draft): Under Construction
+  - [Peanut Butter Forecast](https://rpubs.com/rwoot14/ga2_draft): Comodity demand can be very volitile 
   
   - [Car Price Predictions](https://github.com/Rwoot14/R-projects-/blob/master/Car%20Price%20Prediction%20Project/R%20Group%20Project.pdf): Under Construction
 
