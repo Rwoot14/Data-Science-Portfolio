@@ -12,7 +12,7 @@
   
   - [KickStarter Project](https://github.com/Rwoot14/Data-Science-Portfolio/blob/master/KickStarter%20Project/KickStarter%20Project.ipynb): This project had two objectives: to find the attributes of a kickstarter which made it successful and predicting the likelihood of a project being successfully funded given its attributes. The [Presentation](https://github.com/Rwoot14/Data-Science-Portfolio/blob/master/KickStarter%20Project/Project%20slides.pdf) is a useful overview of the project with a more detailed EDA section and the [Paper](https://github.com/Rwoot14/Data-Science-Portfolio/blob/master/KickStarter%20Project/Pattern%20Analysis%20of%20Kickstarter%20Projects.pdf) is a more detailed description of the projects process and results.
   
-  - [Yelp Project](https://github.com/Rwoot14/Data-Science-Portfolio/tree/master/KickStarter%20Project): Understanding consumer preferences can be a very powerful tool for local businesses. This project focused on Las Vegas businesses and their attributes which consumers liked and disliked on Yelp. Businesses could use this information to further their presence in Las Vegas and increase their Yelp rating.
+  - [Yelp Project](https://github.com/Rwoot14/Yelp-Marketing-Project/blob/master/Final%20Report.pdf): Understanding consumer preferences can be a very powerful tool for local businesses. This project focused on Las Vegas businesses and their attributes which consumers liked and disliked on Yelp. Businesses could use this information to further their presence in Las Vegas and increase their Yelp rating.
   
    #### Assignments
   
@@ -46,13 +46,13 @@
   
 	- [Car Price Predictions](https://github.com/Rwoot14/R-projects-/blob/master/Car%20Price%20Prediction%20Project/R%20Group%20Project.pdf): 
 
-- ### Spark
+- ### Spark:
 
 	-[Assignment 1](https://github.com/Rwoot14/Big_Data/blob/master/Spark2/Homework%202.ipynb)
 	
 	-[Assignment 2](https://github.com/Rwoot14/Big_Data/blob/master/Spark3/Homework%203%20(1).ipynb)
 
-	-[Term Project](https://github.com/Rwoot14/Big_Data/blob/master/BIG%20Assignment/Fin%20Output/Big_assignment.ipynb)
+	-[Term Project](https://github.com/Rwoot14/Big_Data/blob/master/BIG%20Assignment/Fin%20Output/Big_assignment.ipynb) This project was coded in pyspark and was data consisting of consumer viewing habits on a popular car retail site. The project required putting together multiple relational tables and drawing a final machine learning table from them. The final machine learning table could be used to put appropriate car ads in front of users depending on their actions on the website.
 	
 
 - ### SQL
