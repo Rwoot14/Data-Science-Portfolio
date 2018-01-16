@@ -16,7 +16,7 @@
   
    #### Assignments
   
-  - [Advanced Predictive Modeling](https://github.com/Rwoot14/Advanced-Predictive-Modeling-HW): These assignments focused on suprived and unsuprivised machine learning applications:
+  - Advanced Predictive Modeling: These assignments focused on suprived and unsuprivised machine learning applications:
   
   	-[Assignment 1](https://github.com/Rwoot14/Advanced-Predictive-Modeling-HW/blob/master/Homework%201/HW1-F17-MIS382N%20(1)%20FINAL.ipynb)
 	
@@ -28,7 +28,7 @@
 	
 	-[Assignment 5](https://github.com/Rwoot14/Advanced-Predictive-Modeling-HW/blob/master/Homework%205/HW5_Wooten_Yennam.ipynb)
   
-  - [Hadoop](https://github.com/Rwoot14/Data-Science-Portfolio/tree/master/KickStarter%20Project): Each assignment consists of a map and a reduce job.
+  - Hadoop: Each assignment consists of a map and a reduce job.
 	
 	-[Assignment 1](https://github.com/Rwoot14/Big_Data/tree/master/Assignment%201/Source_files)
 	
@@ -42,9 +42,9 @@
 	
 - ### R Projects
 
-	- [Peanut Butter Forecast](https://rpubs.com/rwoot14/ga2_draft):
+	- [Peanut Butter Forecast](https://rpubs.com/rwoot14/ga2_draft): This project provides a one year ahead forecast for skippy brand peanut butter. 
   
-	- [Car Price Predictions](https://github.com/Rwoot14/R-projects-/blob/master/Car%20Price%20Prediction%20Project/R%20Group%20Project.pdf): 
+	- [Car Price Predictions](https://github.com/Rwoot14/R-projects-/blob/master/Car%20Price%20Prediction%20Project/R%20Group%20Project.pdf):
 
 - ### Spark:
 
