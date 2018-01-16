@@ -42,15 +42,18 @@
 	
 - ### R Projects
 
-  - [Peanut Butter Forecast](https://rpubs.com/rwoot14/ga2_draft): Comodity demand can be very volitile 
+	- [Peanut Butter Forecast](https://rpubs.com/rwoot14/ga2_draft):
   
-  - [Car Price Predictions](https://github.com/Rwoot14/R-projects-/blob/master/Car%20Price%20Prediction%20Project/R%20Group%20Project.pdf): Under Construction
+	- [Car Price Predictions](https://github.com/Rwoot14/R-projects-/blob/master/Car%20Price%20Prediction%20Project/R%20Group%20Project.pdf): 
 
 - ### Spark
 
-	- [Term Project](https://github.com/Rwoot14/Big_Data/blob/master/BIG%20Assignment/Fin%20Output/Big_assignment.ipynb)
+	-[Assignment 1](https://github.com/Rwoot14/Big_Data/blob/master/Spark2/Homework%202.ipynb)
 	
-    #### Assignments
+	-[Assignment 2](https://github.com/Rwoot14/Big_Data/blob/master/Spark3/Homework%203%20(1).ipynb)
+
+	-[Term Project](https://github.com/Rwoot14/Big_Data/blob/master/BIG%20Assignment/Fin%20Output/Big_assignment.ipynb)
+	
 
 - ### SQL
 
