@@ -56,7 +56,7 @@
   
 	- [Car Price Predictions](https://github.com/Rwoot14/R-projects-/blob/master/Car%20Price%20Prediction%20Project/R%20Group%20Project.pdf): Car prices have many components and are not always a clear reflection of the market value of a car. This project uses car attributes to predict the price of a car which were taken from a popular car retail site. 
 	
-	-[R Assignments](https://github.com/Rwoot14/R-projects-/blob/master/Homeworks/Wooten_Reece_Exam%20(1).pdf): A document of machine learning assignments from 'An Introduction to Statistical Learning with Applications in R'.
+	- [R Assignments](https://github.com/Rwoot14/R-projects-/blob/master/Homeworks/Wooten_Reece_Exam%20(1).pdf): A document of machine learning assignments from 'An Introduction to Statistical Learning with Applications in R'.
 
 - ### Spark:
 
