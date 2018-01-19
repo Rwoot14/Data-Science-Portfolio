@@ -14,7 +14,7 @@
   
   - [Yelp Project](https://github.com/Rwoot14/Yelp-Marketing-Project/blob/master/Final%20Report.pdf): Understanding consumer preferences can be a very powerful tool for local businesses. This project focused on Las Vegas businesses and their attributes which consumers liked and disliked on Yelp. Businesses could use this information to further their presence in Las Vegas and increase their Yelp rating.
   
-   #### Assignments
+	#### Assignments
   
   - Advanced Predictive Modeling: These assignments focused on supervised and unsupervised machine learning applications:
   
@@ -33,7 +33,7 @@
 	-[Assignment 5](https://github.com/Rwoot14/Advanced-Predictive-Modeling-HW/blob/master/Homework%205/HW5_Wooten_Yennam.ipynb)
 	Focus: Ensembles, Random Forests, Gradient Boosting, XGBoost, Visualization(Bokeh), Support Vector Machine Classification
   
-  - Hadoop: Each assignment consists of a map and a reduce job.
+  - Hadoop: Each assignment consists of a map and a reduce job with a specific goal to accomplish. 
 	
 	-[Assignment 1](https://github.com/Rwoot14/Big_Data/tree/master/Assignment%201/Source_files)
 	Goal: Simple Introduction to AWS and Map/Reduce Jobs
@@ -52,21 +52,23 @@
 	
 - ### R Projects
 
-	- [Peanut Butter Forecast](https://rpubs.com/rwoot14/ga2_draft): This project provides a one year ahead forecast for skippy brand peanut butter. 
+	- [Peanut Butter Forecast](https://rpubs.com/rwoot14/ga2_draft): This project provides a one year ahead forecast for skippy brand peanut butter.
   
-	- [Car Price Predictions](https://github.com/Rwoot14/R-projects-/blob/master/Car%20Price%20Prediction%20Project/R%20Group%20Project.pdf):
+	- [Car Price Predictions](https://github.com/Rwoot14/R-projects-/blob/master/Car%20Price%20Prediction%20Project/R%20Group%20Project.pdf): Car prices have many components and are not always a clear reflection of the market value of a car. This project uses car attributes to predict the price of a car which were taken from a popular car retail site. 
+	
+	-[R Assignments](https://github.com/Rwoot14/R-projects-/blob/master/Homeworks/Wooten_Reece_Exam%20(1).pdf): A document of machine learning assignments from 'An Introduction to Statistical Learning with Applications in R'.
 
 - ### Spark:
+
+	-[Term Project](https://github.com/Rwoot14/Big_Data/blob/master/BIG%20Assignment/Fin%20Output/Big_assignment.ipynb) This project was coded in pyspark and was data consisting of consumer viewing habits on a popular car retail site. The project required putting together multiple relational tables and drawing a final machine learning table from them. The final machine learning table could be used to put appropriate car ads in front of users depending on their actions on the website.
+
+	#### Assignments
 
 	-[Assignment 1](https://github.com/Rwoot14/Big_Data/blob/master/Spark2/Homework%202.ipynb)
 	Goal: implemented an inverted index as in assignment 3 of hadoop
 	
 	-[Assignment 2](https://github.com/Rwoot14/Big_Data/blob/master/Spark3/Homework%203%20(1).ipynb)
 	Goal: generated a fact table for unique car VIN's from a popular car retail website
-
-
-	-[Term Project](https://github.com/Rwoot14/Big_Data/blob/master/BIG%20Assignment/Fin%20Output/Big_assignment.ipynb) This project was coded in pyspark and was data consisting of consumer viewing habits on a popular car retail site. The project required putting together multiple relational tables and drawing a final machine learning table from them. The final machine learning table could be used to put appropriate car ads in front of users depending on their actions on the website.
-	
 
 - ### SQL
 
